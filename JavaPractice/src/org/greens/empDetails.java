@@ -12,8 +12,9 @@ public class empDetails {
 			empDetails c=new empDetails();
 			c.empName();
 			c.empId();
-			
+			System.out.println("here are the details about the employee");
 		}
+		
 
 	
 }
