@@ -2,10 +2,14 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="test00"/>
+			<item value="cucumber00"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="cucumber00"/>
+			<item value="test00"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -44,6 +48,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\java software\eclipse\monish\abstract"/>
 			<item value="E:\java software\eclipse\monish\selenium"/>
 			<item value="E:\java software\eclipse\monish\seleniumtest"/>
 		</list>
@@ -58,15 +63,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="Maven.seleniumtest"/>
-			<item value="Maven.datadirectsmaven"/>
 		</list>
 		<list key="groupId">
-			<item value="Maven"/>
 		</list>
 		<list key="artifactId">
-			<item value="seleniumtest"/>
-			<item value="datadirectsmaven"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
