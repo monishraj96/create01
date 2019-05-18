@@ -2,6 +2,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
   <test thread-count="5" name="Test">
+  <parameter name="userName" value="HELLO"> </parameter>
+  <parameter name="password" value="java"></parameter>
     <classes>
       <class name="testNG.sample"/>
     </classes>
